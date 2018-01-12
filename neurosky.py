@@ -1,4 +1,4 @@
-#makeBR_Demo NeuroSky Control via MindwaveMobile library
+#makebr_Demo NeuroSky Control via MindwaveMobile library
 #https://github.com/robintibor/python-mindwave-mobile
 
 import collections, datetime
