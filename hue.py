@@ -1,4 +1,4 @@
-#makeBR_Demo Philips Hue Control via phue library
+#makebr_Demo Philips Hue Control via phue library
 
 import logging
 from phue import Bridge, PhueRequestTimeout
