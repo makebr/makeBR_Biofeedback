@@ -1,5 +1,5 @@
 """
-makeBR Demonstration
+makebr Demonstration
 NeuroSky EEG Control of Philips Hue Lights via eSense(r) Attention reading
 January 10th, 2018
 Brandon Taylor, PE
